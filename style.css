@@ -1,0 +1,77 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: #151515;
+}
+nav{
+    background-color: #C73659;
+}
+nav ul{
+    list-style: none;
+    margin: 0;
+}
+nav{
+    border: 2px solid #A91D3A;
+    padding: 12px;
+}
+nav ul li{
+    display: inline-block;
+    margin: 0 8px;
+    font-size: 30px;
+}
+nav li a{
+    text-decoration: none;
+    color: inherit;
+}
+main{
+    padding: 30px;
+}
+main h1{
+    font-size: 50px;
+}
+
+/* Food Section */
+.food{
+    width: 60%;
+    max-width: 500px;
+    border: 2px solid #151515;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+.food .img-container img{
+    width: 100%;
+}
+.food .text-container{
+    padding: 10px;
+}
+.food .text-container h4{
+    font-size: 30px;
+    margin: 0;
+}
+.food .text-container p {
+    font-size: 20px;
+}
+
+
+/*Attraction Section*/
+
+.attraction{
+    width: 60%;
+    max-width: 500px;
+    border: 2px solid #151515;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+.attraction .img-container img{
+    width: 100%;
+}
+.attraction .text-container{
+    padding: 10px;
+}
+.attraction .text-container h4{
+    font-size: 30px;
+    margin: 0;
+}
+.attraction .text-container p {
+    font-size: 20px;
+}
